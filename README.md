@@ -34,10 +34,10 @@ https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20Booker.post
 
 ## Newman results:
 
-!(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%201.jpg)
+![Imagine 1](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%201.jpg)
 
-!(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%202.jpg)
+![Imagine 2](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%202.jpg)
 
-!(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%203.jpg)
+![Imagine 3](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%203.jpg)
 
-!(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%204.jpg)
+![Imagine 4](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%204.jpg)
