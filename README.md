@@ -20,7 +20,7 @@ How you use this application is up to you, but here are a few things to get you 
   
 Please note: for security reasons the database resets every 10 minutes.
 
-## Rest Api link:
+## Rest API link:
 https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## Restfull Booker Project:
