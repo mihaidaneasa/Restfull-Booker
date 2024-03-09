@@ -24,8 +24,8 @@ Please note: for security reasons the database resets every 10 minutes.
 https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## Restfull Booker Project:
-(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Proiect%20Daneasa%20Mihai.json)
-Global variable: (https://github.com/mihaidaneasa/Restfull-Booker/blob/main/workspace.proiect_daneasa_mihai_globals.json)
+https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Proiect%20Daneasa%20Mihai.json
+Global variable: https://github.com/mihaidaneasa/Restfull-Booker/blob/main/workspace.proiect_daneasa_mihai_globals.json
 
 ## Test results:
-(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20Booker.postman_test_run.json)
+(ttps://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20Booker.postman_test_run.json
