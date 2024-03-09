@@ -22,3 +22,10 @@ Please note: for security reasons the database resets every 10 minutes.
 
 ## Rest Api link:
 https://restful-booker.herokuapp.com/apidoc/index.html
+
+## Restfull Booker Project:
+(
+Global variable: (
+
+## Test results:
+(
