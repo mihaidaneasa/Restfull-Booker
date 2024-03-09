@@ -28,4 +28,4 @@ https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Proiect%20Daneasa%20Mi
 Global variable: https://github.com/mihaidaneasa/Restfull-Booker/blob/main/workspace.proiect_daneasa_mihai_globals.json
 
 ## Test results:
-(ttps://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20Booker.postman_test_run.json
+https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20Booker.postman_test_run.json
