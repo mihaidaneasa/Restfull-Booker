@@ -31,3 +31,13 @@ https://github.com/mihaidaneasa/Restfull-Booker/blob/main/workspace.proiect_dane
 
 ## Test results:
 https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20Booker.postman_test_run.json
+
+## Newman results:
+
+!(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%201.jpg)
+
+!(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%202.jpg)
+
+!(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%203.jpg)
+
+!(https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%204.jpg)
