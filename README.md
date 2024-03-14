@@ -27,6 +27,7 @@ https://restful-booker.herokuapp.com/apidoc/index.html
 https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Proiect%20Daneasa%20Mihai.json
 
 Global variable: 
+
 https://github.com/mihaidaneasa/Restfull-Booker/blob/main/workspace.proiect_daneasa_mihai_globals.json
 
 ## Test results:
