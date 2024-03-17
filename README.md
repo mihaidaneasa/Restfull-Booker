@@ -23,22 +23,36 @@ Please note: for security reasons the database resets every 10 minutes.
 ## Rest API link:
 https://restful-booker.herokuapp.com/apidoc/index.html
 
-## Restfull Booker Project:
-https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Proiect%20Daneasa%20Mihai.json
+## Restfull Booker Project
+### Positive testing:
+https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20Booker%20-%20Positive%20functional%20testing.postman_collection.json
 
-Global variable: 
-
+### Global variable: 
 https://github.com/mihaidaneasa/Restfull-Booker/blob/main/workspace.proiect_daneasa_mihai_globals.json
 
-## Test results:
+### Test results:
 https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20Booker.postman_test_run.json
 
-## Newman results:
+### Newman results:
 
-![Imagine 1](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%201.jpg)
+![Imagine 1](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/P1.jpg)
 
-![Imagine 2](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%202.jpg)
+![Imagine 2](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/P2.jpg)
 
-![Imagine 3](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%203.jpg)
+![Imagine 3](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/P3.jpg)
 
-![Imagine 4](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Newman%204.jpg)
+![Imagine 4](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/P4.jpg)
+
+### Negative testing:
+https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20booker%20-%20Negative%20testing.postman_collection.json
+
+### Global variable: 
+https://github.com/mihaidaneasa/Restfull-Booker/blob/main/workspace.proiect_daneasa_mihai_globals.json
+
+### Test results:
+https://github.com/mihaidaneasa/Restfull-Booker/blob/main/Restfull%20booker%20-%20Negative%20testing.postman_test_run.json
+
+### Newman results:
+![Imagine 1](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/N1.jpg)
+
+![Imagine 2](https://github.com/mihaidaneasa/Restfull-Booker/blob/main/N2.jpg)
